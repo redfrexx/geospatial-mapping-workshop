@@ -24,8 +24,9 @@ We are using the open source software [QGIS](https://qgis.org/). All concepts yo
 
 [Introduction to cartography and GIS for Geography Students at Heidelberg University](https://hd.bwpages.de/giscience/qgis-book/intro.html) It's in German but if you can translate it using your internet browser.
 
-Cartography Workshop by Dr. Michelle Tobias, Stanford University.
-https://sites.google.com/stanford.edu/gis-cartography/workshops/maps-for-academic-journals
+This [GIS workshop is targeted at disaster management professionals](https://giscience.github.io/gis-training-resource-center/content/Module_2/en_qgis_projections.html) but it gives a good introduction to GIS concepts and QGIS for non geographers. 
+
+Another good workshop by Dr. Michelle Tobias, Stanford University on how to create maps for academic journals. It covers the basics of cartography. https://sites.google.com/stanford.edu/gis-cartography/workshops/maps-for-academic-journals
 
 Tutorial on creating a map according to instructions for journal publication.
 https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/composing-a-map.html

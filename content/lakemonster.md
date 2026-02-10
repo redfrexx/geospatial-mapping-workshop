@@ -1,5 +1,7 @@
 # Exercise: Lake Monster Map
 
+This exercise is based on the one designed by Michelle Tobias, Stanford University: [Cartography for Map Figures in Academic Journals & Books](https://github.com/MicheleTobias/Workshop-Cartography-Journal-Figures?tab=readme-ov-file) 
+
 Let's pretend we want to create a map for a Nature Journal article about the **distribution of sightings of lake monsters - creatures reported to live in lakes that are mainly known from folklore and typically take on the the shape of extinct or extraordinarlily large living reptiles - in the US and Canada. You want your readers to understand the relationship between the monster locations and also their location on the planet.
 
 We'll be working with an international dataset of locations of lake monsters, the most famous of which is arguably Nessie who supposedly lives in Loch Ness in Scotland. This dataset was assembled from [Wikipedia's List of Lake Monsters](https://en.m.wikipedia.org/wiki/List_of_lake_monsters).
@@ -75,7 +77,9 @@ The dem layer is a raster data set, so it doesn't have an attribute table. You c
 
 ## Style the data
 
-We've decided on our story and loaded up our data. Now it's time to style the data. First, let's center our view on the Great Lakes area using the zoom tool. It doesn't have to be perfect. We will adjust later.
+We've decided on our story and loaded up our data. Now it's time to style the data. Before we start though, let's quickly review some cartographic principles that will help us make good design choices. Michelle Tobias explains these very well in her [workshop on maps for academic journals](https://sites.google.com/stanford.edu/gis-cartography/workshops/maps-for-academic-journals). **Read through the "Design" section about Visual Hierarchies, fonts and colors** before continuing with this exercise.
+
+First, let's center our view on the Great Lakes area using the zoom tool. It doesn't have to be perfect. We will adjust later.
 
 :::{figure} ./img/monsters/ZoomToGreatLakes-small.jpg
 Screenshot of the map canvas zoomed to the Great Lakes area
@@ -93,7 +97,7 @@ Let's open the *Layer Styling* Panel.
 
 ### Administrative boundaries
 
-Let's start with the largest background layer.  This will have a big impact on how we style the other layers and will help set the tone for how we work. We want to set the fill color to white and the border to a light gray. This will make the states recede into the background and not compete with the other layers for attention.
+Let's start with the largest background layer. This will have a big impact on how we style the other layers and will help set the tone for how we work. We want to set the fill color to white and the border to a light gray. This will make the states recede into the background and not compete with the other layers for attention.
 
 Open the *Layer Styling* panel,
 
@@ -155,6 +159,11 @@ Setting the points to black make them stand out well against the lighter backgro
 [//]: # (3. Adjust the *Size* as needed.  You may also want to adjust the *Angle* if your icon is not oriented the way you want it to be on the map.)
 
 [//]: # (4. Note that if you use an icon, you will need to make sure it is a simple icon with a transparent background and that it will be visible at the size you need for your map.  You may also want to adjust the *Offset* options to make sure the icon is centered on the point location.)
+
+
+To learn more about styling refer to these tutorials:
+- [Visualisation of Geodata and Map Making](https://giscience.github.io/gis-training-resource-center/content/Module_4/en_module_4_overview.html)
+- [Styling Vector Layers, GIS Introduction, Heidelberg University](hhttps://hd.bwpages.de/giscience/qgis-book/content/karto/darstellung-vektor/ueberschrift.html)
 
 
 ## Labels
