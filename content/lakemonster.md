@@ -109,7 +109,7 @@ The stroke on the states might look a little light and might be confusing to the
 1. On the *Project* menu, select *Properties*.
 1. Select the *General* tab on the left side of the window, then click on *Background color* in the middle of the window.  Change it to the same color as the stroke of your states.  Click *OK* in the color interface and *OK* in the Options interface.
 
-:::{figure} ./img/monsters/set_backgroundcolor-small.png
+:::{figure} ./img/monsters/set_backgroundcolor-small.jpg
 :::
 
 ### Lakes
