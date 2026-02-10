@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+format: jb-book
+root: content/intro
+parts:
+  - caption: General
+    chapters:
+    - file: content/mapdesign.md
+    - file: content/lakemonster.md
+  - capation: Data sources
+    chapters:
+    - file: content/data_sources/openstreetmap.md
+    - file: content/data_sources/basemaps.md
+    - file: content/data_sources/participatorymapping.md

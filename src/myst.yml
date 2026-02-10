@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  licence: CC BY-NC-SA 4.0
+  id: 7864b3e8-8cd3-4b2a-bf19-e007bed6c82d
+  title: Geospatial Mapping and Analysis
+  description: Workshop introducing geospatial mapping and analysis using open source tools
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc:
+    - file: content/intro.md
+
+site:
+  template: book-theme
+  options:
+  #   favicon: favicon.ico
+     logo: website/logo_uni.png
