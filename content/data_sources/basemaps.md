@@ -48,13 +48,13 @@ In order to style a certain country differently than the others, you need to ext
 1. Load the administrative boundaries shapefile into QGIS.
 2. Use the "Select Features by area or single Click" tool to select the country you want to style differently. Export the selected features as a new data set. It will be added as a new layer in QGIS. 
 
-:::{figure} ../img/studyarea/studyarea_extract_country.mov
+:::{figure} ../img/studyarea/studyarea_extract_country.mp4
 Select and export country as new data set in QGIS. It 
 :::
 
 3. The extracted data set is added as a new layer in QGIS. So now you can style it differently than the other countries. 
 
-:::{figure} ../img/studyarea/studyarea_style.mov
+:::{figure} ../img/studyarea/studyarea_style.mp4
 Style the country so that it stands out from the other countries in QGIS.
 :::
 
@@ -71,7 +71,7 @@ Here is how to add basemaps in QGIS:
 
 1. Install the XZY Tiles Basemap Downloader plugin in QGIS.
 
-:::{figure} ../img/basemaps/xyz_installplugin.mov
+:::{figure} ../img/basemaps/xyz_installplugin.mp4
 Install the XYZ Tiles Basemap Downloader plugin in QGIS
 :::
 
@@ -85,7 +85,7 @@ Load the basemaps using the XYZ Tiles Basemap Downloader plugin in QGIS
 
 4. Open the browser panel on the left. If it is not there yet, you can activate it in the menu (View -> Panels -> Browser). Navigate to the XYZ Tiles section and you should see a list of basemaps that you can add to your project.
 
-:::{figure} ../img/basemaps/xyz_load.mov
+:::{figure} ../img/basemaps/xyz_load.mp4
 Navigate to the XYZ Tiles section and load a layer
 :::
 

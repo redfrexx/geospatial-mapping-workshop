@@ -19,7 +19,7 @@ Just remember: **the data is created by volunteers - similar to Wikipedia - so d
 
 You can explore the data on OSM on the website using the query tool. 
 
-:::{figure} ../img/osm/osm_query_feature.mov
+:::{figure} ../img/osm/osm_query_feature.mp4
 Querying OSM data on the website using the query tool.
 :::
 
