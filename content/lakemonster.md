@@ -77,7 +77,7 @@ The dem layer is a raster data set, so it doesn't have an attribute table. You c
 
 We've decided on our story and loaded up our data. Now it's time to style the data. First, let's center our view on the Great Lakes area using the zoom tool. It doesn't have to be perfect. We will adjust later.
 
-:::{figure} ./img/monsters/ZoomToGreatLakes.png
+:::{figure} ./img/monsters/ZoomToGreatLakes-small.png
 Screenshot of the map canvas zoomed to the Great Lakes area
 :::
 
@@ -109,7 +109,7 @@ The stroke on the states might look a little light and might be confusing to the
 1. On the *Project* menu, select *Properties*.
 1. Select the *General* tab on the left side of the window, then click on *Background color* in the middle of the window.  Change it to the same color as the stroke of your states.  Click *OK* in the color interface and *OK* in the Options interface.
 
-:::{figure} ./img/monsters/set_backgroundcolor.png
+:::{figure} ./img/monsters/set_backgroundcolor-small.png
 :::
 
 ### Lakes
@@ -123,7 +123,7 @@ Let's style the lakes layer. Select the layer (*Lakes_GreatLakes-Area*) in the *
 
 Remember our discussion of Visual Hierarchy? The background layers - the states and the lakes - now seem to recede and demand less of our attention. This is important so we can make the monster locations stand out next.
 
-:::{figure} ./img/monsters/Style_Lakes.png
+:::{figure} ./img/monsters/Style_Lakes-small.png
 :::
 
 
@@ -136,7 +136,7 @@ The last layer to style is the lake monsters.
 1. Scroll down to the box that contains different marker shapes. **Choose the rounded squares.**
 1. Set the **Fill color** to black **(#000000)**.
 
-:::{figure} ./img/monsters/Style_Monsters.png
+:::{figure} ./img/monsters/Style_Monsters-small.png
 :::
 
 Setting the points to black make them stand out well against the lighter background data.  Circles are the obvious choice for point data, but using squares for point markers rather than circles makes them stand out more. Both are good options though. In academic publications, I try to avoid shapes like stars. They might look silly, but more importantly, they are complex shapes and we're trying to avoid complexity.
@@ -298,13 +298,13 @@ Now that we've picked a scale to render our map at, your labels may not look qui
 
 If you get this message below, just click ok. 
 
-:::{figure} ./img/monsters/label_message.png
+:::{figure} ./img/monsters/label_message-small.png
 :width: 80%
 :::
 
 3. When you are done, switch back to the layout window and click the *Refresh view* button. Afterward, the scale and center of the map might be shifted. Move them back as necessary. You might need to repeat this process of moving labels and readjusting the map content a few times to get everything just right.
 
-:::{figure} ./img/monsters/refreshview.png
+:::{figure} ./img/monsters/refreshview-small.png
 :::
 
 [//]: # (Also, you may need to turn off the options related to showing labels for any labels that are misbehaving &#40;some of mine were in different places than I put them in the layout&#41;.)
@@ -341,7 +341,7 @@ In our case:
 If you use [OpenStreetMap Data](../data_sources/osm.md) you need to add "© OpenStreetMap contributors" as attribution to your map. 
 
 
-:::{figure} ./img/monsters/attribution.png
+:::{figure} ./img/monsters/attribution-small.png
 :::
 
 
@@ -384,7 +384,7 @@ This is the map I made, without optimized label placement yet but with the prope
 
 A nicer map with optimal label placement by Dr. Michelle Tobias, who also designed this exercise. :)
 
-:::{figure} ./img/monsters/FinishedMap.png
+:::{figure} ./img/monsters/FinishedMap-small.png
 :width: 80%
 :::
 
