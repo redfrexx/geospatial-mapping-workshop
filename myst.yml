@@ -11,6 +11,11 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: content/intro.md
+    - title: Data sources
+      children:
+        - file: content/data_sources/openstreetmap.md
+        - file: content/data_sources/basemaps.md
+        - file: content/data_sources/participatorymapping.md
 
 site:
   template: book-theme
