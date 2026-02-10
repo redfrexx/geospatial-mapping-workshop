@@ -193,11 +193,8 @@ Choose *Single Labels* from the drop-down menu at the top of the panel. There ar
 #### Rendering Tab
 - In the *Overlapping labels* section set **mode** to **"Allow overlaps without penalty"**.
 
-
-:::{figure} ./img/monsters/label.mp4
+:::{figure} ./img/monsters/labels.mp4
 :::
-
-![./img/monsters/label.mp4](./img/monsters/label.mp4)
 
 ### Lakes
 
