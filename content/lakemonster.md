@@ -115,7 +115,8 @@ The stroke on the states might look a little light and might be confusing to the
 
 :::{figure} ./img/monsters/set_backgroundcolor-small.jpg
 :width: 100%
-Setting the background color of the QGIS map canves 
+
+Setting the background color of the QGIS map canvas
 :::
 
 ### Lakes
@@ -241,7 +242,7 @@ Choose *Single Labels* from the drop-down menu at the top of the Styling panel i
 ### Rendering Tab
 - In the *Overlapping labels* section set **mode** to **"Allow overlaps without penalty"**.
 
-:::{figure} ./img/monsters/labels_monster.mp4
+:::{figure} ./img/monsters/label_monster.mp4
 :::
 
 
