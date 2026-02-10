@@ -19,12 +19,7 @@ Just remember: **the data is created by volunteers - similar to Wikipedia - so d
 
 You can explore the data on OSM on the website using the query tool. 
 
-:::{figure} ../img/osm/osm_query_feature.mp4
-:controls:
-Querying OSM data on the website using the query tool.
-:::
-
-<video src="../img/osm/osm_query_feature.mp4" controls></video>
+<video width="100%" controls src="../img/osm/osm_query_feature.mp4"></video>
 
 In our [Introduction to GIS lecture material](https://hd.bwpages.de/giscience/qgis-book/content/gis/07_download-osm/home-OSM-Grundlagen.html) you can find more information and instructions on:
 
