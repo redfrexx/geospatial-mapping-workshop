@@ -24,6 +24,8 @@ You can explore the data on OSM on the website using the query tool.
 Querying OSM data on the website using the query tool.
 :::
 
+<video src="../img/osm/osm_query_feature.mp4" controls></video>
+
 In our [Introduction to GIS lecture material](https://hd.bwpages.de/giscience/qgis-book/content/gis/07_download-osm/home-OSM-Grundlagen.html) you can find more information and instructions on:
 
 &rarr; [How is OSM data created?](https://hd.bwpages.de/giscience/qgis-book/content/gis/07_download-osm/home-OSM-Grundlagen.html)
