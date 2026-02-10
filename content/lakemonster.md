@@ -59,7 +59,7 @@ QGIS showing the three layers loaded. Note that the colors of the data are selec
 
 You may change the order of the layers so all of them are visible on the canvas.
 
-:::{figure} ./img/monsters/change_order.png
+:::{figure} ./img/monsters/change_order.mp4
 
 :::
 
