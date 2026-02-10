@@ -23,3 +23,8 @@ site:
   options:
   #   favicon: favicon.ico
      logo: content/img/logo_uni.png
+
+
+html:
+ footer:
+   show: false
