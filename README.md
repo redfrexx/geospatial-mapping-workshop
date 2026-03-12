@@ -1,6 +1,8 @@
 # Geospatial Mapping Workshop
 
-This workshop gives a short introduction on how to create maps in QGIS.
+This workshop gives a short introduction on how to create maps in QGIS. 
+
+Take a look here: [https://redfrexx.github.io/geospatial-mapping-workshop/](https://redfrexx.github.io/geospatial-mapping-workshop/)
 
 ## Workshops conducted 
 This was conducted as a 1 day workshop for 
