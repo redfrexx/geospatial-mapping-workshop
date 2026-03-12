@@ -11,3 +11,5 @@ This was conducted as a 1 day workshop for
 ## License and attribution 
 Portions of this workshop material are adapted from [“Cartography for Map Figures in Academic Journals & Books” by Michelle Tobias](https://github.com/MicheleTobias/Workshop-Cartography-Journal-Figures). The original material is licensed under the GNU General Public License v3.0 (GPL-3.0). This adapted version is also distributed under GPL-3.0.
 
+Portions of this workshop material are adapted from [“Cartography for Map Figures in Academic Journals & Books” by Michelle Tobias](https://github.com/MicheleTobias/Workshop-Cartography-Journal-Figures). The original work is licensed under the GNU General Public License v3.0 (GPL-3.0). Modifications have been made, and this adapted material is distributed under the same GPL-3.0 license.
+
